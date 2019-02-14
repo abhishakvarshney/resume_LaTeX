@@ -6,4 +6,4 @@ I created this template as managing a resume on Google Docs was hard and changin
 
 ### Preview
 
-![abhishakvarshney_resume](https://user-images.githubusercontent.com/35887568/52692374-b9752d00-2f89-11e9-84cf-3292d3f01fb1.png)
+![abhishak_resume](https://user-images.githubusercontent.com/35887568/52810254-25ee4a00-30b8-11e9-9276-6f4b301e03b7.png)
